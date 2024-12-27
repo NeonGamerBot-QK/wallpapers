@@ -1,0 +1,12 @@
+[submodule "walls/catppuccin_walls"]
+	path = walls/catppuccin_walls
+	url = https://github.com/er2de2/catppuccin_walls.git
+[submodule "walls/walls"]
+	path = walls/walls
+	url = https://github.com/orangci/walls.git
+[submodule "walls/walls-1"]
+	path = walls/walls-1
+	url = https://github.com/dharmx/walls
+[submodule "walls/walls-2"]
+	path = walls/walls-2
+	url = https://github.com/Likhon-baRoy/walls/
