@@ -8,8 +8,7 @@ const prefss = {
     "walls-2": {
         root: [
             './Anime_Art',  './Art',
-            './Background', './Cityscapes',
-            './Etc',        './Fantasy',
+            './Background', './Cityscapes',        './Fantasy',
             './Future',     './Landscapes',
             './Nature',     './Spacescapes',
             './Tech',       './Unsorted',
